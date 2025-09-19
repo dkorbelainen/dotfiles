@@ -1,4 +1,4 @@
-### Req's:
+### Requirements:
 - Git
 - Stow
 
