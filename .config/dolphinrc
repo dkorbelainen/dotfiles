@@ -1,0 +1,17 @@
+[General]
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2025,9,18,16,0,29.039
+
+[InformationPanel]
+showHovered=false
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,appimagethumbnail,audiothumbnail,avif,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,heif,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,librsvg,svgthumbnail,ffmpegthumbs,gdk-pixbuf-thumbnailer,gsf-office
