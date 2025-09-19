@@ -1,0 +1,183 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=114,90,174
+BackgroundNormal=46,34,80
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=168,159,217
+ForegroundLink=209,199,242
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=255,243,255
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[Colors:Complementary]
+BackgroundAlternate=65,74,137
+BackgroundNormal=37,24,69
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=168,159,217
+ForegroundLink=209,199,242
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=255,243,255
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[Colors:Header]
+BackgroundAlternate=37,24,69
+BackgroundNormal=111,87,171
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=168,159,217
+ForegroundLink=209,199,242
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=255,255,255
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[Colors:Header][Inactive]
+BackgroundAlternate=46,34,80
+BackgroundNormal=37,24,69
+DecorationFocus=125,159,244
+DecorationHover=125,159,244
+ForegroundActive=125,159,244
+ForegroundInactive=168,159,217
+ForegroundLink=109,140,242
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=167,162,180
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[Colors:Selection]
+BackgroundAlternate=108,83,166
+BackgroundNormal=108,83,166
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=255,255,255
+ForegroundLink=118,54,221
+ForegroundNegative=149,73,127
+ForegroundNeutral=170,104,127
+ForegroundNormal=255,255,255
+ForegroundPositive=65,90,113
+ForegroundVisited=145,92,195
+
+[Colors:Tooltip]
+BackgroundAlternate=37,24,69
+BackgroundNormal=46,34,80
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=168,159,217
+ForegroundLink=209,199,242
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=255,243,255
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[Colors:View]
+BackgroundAlternate=34,20,65
+BackgroundNormal=25,10,53
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=168,159,217
+ForegroundLink=146,110,228
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=255,243,255
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[Colors:Window]
+BackgroundAlternate=46,34,80
+BackgroundNormal=37,24,69
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=168,159,217
+ForegroundLink=209,199,242
+ForegroundNegative=184,93,149
+ForegroundNeutral=211,132,151
+ForegroundNormal=255,243,255
+ForegroundPositive=108,156,167
+ForegroundVisited=145,92,195
+
+[General]
+ColorSchemeHash=97b05f3da14542cee7b565a7209cd17ee473f06a
+TerminalApplication=ghostty
+TerminalService=com.mitchellh.ghostty.desktop
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+font=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=Inter,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+LookAndFeelPackage=Sweet
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=142
+View Style=DetailTree
+
+[KScreen]
+ScreenScaleFactors=DP-1=1;
+XwaylandClientsScale=false
+
+[WM]
+activeBackground=111,87,171
+activeBlend=252,252,252
+activeFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeForeground=255,255,255
+inactiveBackground=37,24,69
+inactiveBlend=161,169,177
+inactiveForeground=167,162,180
