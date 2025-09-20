@@ -2,7 +2,7 @@
 
 # dotfiles
 
-This repository contains my personal dotfiles for **EndeavourOS** with the **KDE Plasma** desktop environment.
+This repository contains my personal dotfiles for arch-based **EndeavourOS** with the **KDE Plasma** desktop environment.
 
 -----
 
@@ -20,6 +20,8 @@ This repository contains my personal dotfiles for **EndeavourOS** with the **KDE
     ```sh
     $ stow .
     ```
+
+**Note:** If `stow` fails due to conflicts, you may need to manually remove or rename the existing configuration directories (e.g., `mv ~/.config/fastfetch ~/.config/fastfetch.bak`). Stow can't create symlinks if a folder with the same name already exists.
 
 -----
 
