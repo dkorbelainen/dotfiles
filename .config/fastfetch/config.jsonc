@@ -31,10 +31,10 @@
             "keyColor": "green"
         },
         {
-            "type": "command",
-            "key": "  CPU",
+            "type": "cpu",
+            "key": " CPU",
             "keyColor": "green",
-            "color": "green",
+            "format": "{1}"
         },
         {
             "type": "gpu",
