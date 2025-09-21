@@ -46,7 +46,7 @@
 #theme = solarized-osaka-night
 #theme = synthwave-everything
 #theme = "Tinacious Design (Dark)"
-theme = tokyonight
+theme = TokyoNight
 
 keybind = ctrl+r=reload_config
 keybind = page_down=toggle_fullscreen

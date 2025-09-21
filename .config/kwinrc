@@ -1,39 +1,13 @@
 [Desktops]
-Id_1=3295bc9f-95bc-4092-a84c-72bddbd80018
-Name_1=Desktop 999
+Id_1=88f2b03f-9689-419b-b3fa-a34ad0bd8ba0
 Number=1
 Rows=1
-
-[Effect-blur]
-BlurStrength=7
-NoiseStrength=0
-
-[Plugins]
-blurEnabled=true
-contrastEnabled=true
-fadeEnabled=true
-hidecursorEnabled=true
-kwin4_effect_geometry_changeEnabled=true
-minimizeallEnabled=true
-overviewEnabled=false
-scaleEnabled=false
-shakecursorEnabled=false
-windowapertureEnabled=false
-wobblywindowsEnabled=true
-
-[TabBox]
-LayoutName=modern_informative
-MinimizedMode=1
 
 [Tiling]
 padding=4
 
-[Tiling][3295bc9f-95bc-4092-a84c-72bddbd80018][326e9258-d8c0-49fa-8655-69c680a6c0b3]
+[Tiling][88f2b03f-9689-419b-b3fa-a34ad0bd8ba0][91892981-f7ac-40dc-b218-7dcb006c590e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
-[org.kde.kdecoration2]
-BorderSize=None
-BorderSizeAuto=false
-ButtonsOnLeft=
-ButtonsOnRight=IAX
-theme=__aurorae__svg__Utterly-Round-Dark
+[Xwayland]
+Scale=1

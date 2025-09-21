@@ -10,7 +10,7 @@ IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=false
+ChangeSelectionColor=true
 Color=112,111,110
 ColorAmount=0.025
 ColorEffect=2
@@ -22,59 +22,59 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=114,90,174
-BackgroundNormal=46,34,80
+BackgroundNormal=41,44,48
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=168,159,217
+ForegroundInactive=161,169,177
 ForegroundLink=209,199,242
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=255,243,255
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:Complementary]
-BackgroundAlternate=65,74,137
-BackgroundNormal=37,24,69
+BackgroundAlternate=30,87,116
+BackgroundNormal=32,35,38
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=168,159,217
+ForegroundInactive=161,169,177
 ForegroundLink=209,199,242
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=255,243,255
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:Header]
-BackgroundAlternate=37,24,69
-BackgroundNormal=111,87,171
+BackgroundAlternate=32,35,38
+BackgroundNormal=41,44,48
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=168,159,217
+ForegroundInactive=161,169,177
 ForegroundLink=209,199,242
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=255,255,255
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:Header][Inactive]
-BackgroundAlternate=46,34,80
-BackgroundNormal=37,24,69
-DecorationFocus=125,159,244
-DecorationHover=125,159,244
-ForegroundActive=125,159,244
-ForegroundInactive=168,159,217
-ForegroundLink=109,140,242
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=167,162,180
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+BackgroundAlternate=41,44,48
+BackgroundNormal=32,35,38
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:Selection]
 BackgroundAlternate=108,83,166
@@ -84,71 +84,58 @@ DecorationHover=146,110,228
 ForegroundActive=146,110,228
 ForegroundInactive=255,255,255
 ForegroundLink=118,54,221
-ForegroundNegative=149,73,127
-ForegroundNeutral=170,104,127
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
 ForegroundNormal=255,255,255
-ForegroundPositive=65,90,113
-ForegroundVisited=145,92,195
+ForegroundPositive=23,104,57
+ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
-BackgroundAlternate=37,24,69
-BackgroundNormal=46,34,80
+BackgroundAlternate=32,35,38
+BackgroundNormal=41,44,48
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=168,159,217
+ForegroundInactive=161,169,177
 ForegroundLink=209,199,242
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=255,243,255
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=34,20,65
-BackgroundNormal=25,10,53
+BackgroundAlternate=29,31,34
+BackgroundNormal=20,22,24
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=168,159,217
+ForegroundInactive=161,169,177
 ForegroundLink=146,110,228
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=255,243,255
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=46,34,80
-BackgroundNormal=37,24,69
+BackgroundAlternate=41,44,48
+BackgroundNormal=32,35,38
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=168,159,217
+ForegroundInactive=161,169,177
 ForegroundLink=209,199,242
-ForegroundNegative=184,93,149
-ForegroundNeutral=211,132,151
-ForegroundNormal=255,243,255
-ForegroundPositive=108,156,167
-ForegroundVisited=145,92,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [General]
-ColorSchemeHash=97b05f3da14542cee7b565a7209cd17ee473f06a
-TerminalApplication=ghostty
+ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
+TerminalApplication=/usr/bin/ghostty --gtk-single-instance=true
 TerminalService=com.mitchellh.ghostty.desktop
-XftAntialias=true
-XftHintStyle=hintslight
-XftSubPixel=rgb
-font=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-menuFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-smallestReadableFont=Inter,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-toolBarFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-
-[Icons]
-Theme=breeze-dark
-
-[KDE]
-LookAndFeelPackage=Sweet
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -159,25 +146,19 @@ LocationCombo Completionmode=5
 PathCombo Completionmode=5
 Show Full Path=false
 Show Inline Previews=true
-Show Preview=false
 Show Speedbar=true
 Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
 Sort reversed=false
-Speedbar Width=142
+Speedbar Width=140
 View Style=DetailTree
 
-[KScreen]
-ScreenScaleFactors=DP-1=1;
-XwaylandClientsScale=false
-
 [WM]
-activeBackground=111,87,171
+activeBackground=39,44,49
 activeBlend=252,252,252
-activeFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-activeForeground=255,255,255
-inactiveBackground=37,24,69
+activeForeground=252,252,252
+inactiveBackground=32,36,40
 inactiveBlend=161,169,177
-inactiveForeground=167,162,180
+inactiveForeground=161,169,177

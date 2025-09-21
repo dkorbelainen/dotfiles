@@ -6,22 +6,44 @@ This repository contains my personal dotfiles for arch-based **EndeavourOS** wit
 
 -----
 
+### Requirements
+
+Before proceeding, make sure you have the necessary packages and tools installed.
+
+```sh
+# Install core packages from official repositories
+sudo pacman -S git stow ghostty fastfetch flameshot micro zsh
+
+# Install Ulauncher from the AUR
+git clone https://aur.archlinux.org/ulauncher.git
+cd ulauncher
+makepkg -is
+cd ..
+```
+
+  * **Change your default shell to Zsh:**
+    ```sh
+    chsh -s $(which zsh)
+    ```
+
+-----
+
 ### Installation
 
 1.  **Clone the repository:**
 
     ```sh
-    $ git clone git@github.com:DanielKorbelainen/dotfiles.git
-    $ cd dotfiles
+    git clone https://github.com/DanielKorbelainen/dotfiles.git
+    cd dotfiles
     ```
 
 2.  **Use GNU Stow to create symlinks:**
 
     ```sh
-    $ stow .
+    stow . --adopt
     ```
 
-**Note:** If `stow` fails due to conflicts, you may need to manually remove or rename the existing configuration directories (e.g., `mv ~/.config/fastfetch ~/.config/fastfetch.bak`). Stow can't create symlinks if a folder with the same name already exists.
+**Note:** The `--adopt` flag allows Stow to take control of existing configuration files and move them into this repository. It's an effective way to manage your current setup. However, in rare cases, if a file or directory is in the way, Stow may fail. If this happens, you will need to manually remove or rename the conflicting item (e.g., `mv ~/.config/conflicting_file ~/.config/conflicting_file.bak`) and re-run the `stow` command.
 
 -----
 
@@ -40,5 +62,5 @@ My dotfiles include configurations for the following applications:
 
 ### Notes
 
-  - To use the wallpaper included in this repository, copy the image to your `~/Pictures` directory.
-  - After running the `stow` command, you may need to **log out and log back in** to see the changes.
+  * To use the wallpaper included in this repository, copy the image to your `~/Pictures` directory.
+  * After running the `stow` command, you may need to **log out and log back in** to see the changes.
