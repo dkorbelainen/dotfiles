@@ -4,6 +4,9 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
+[Containments][1][Wallpaper][org.kde.image][General]
+SlidePaths=/home/pand/.local/share/wallpapers/,/usr/share/wallpapers/
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -147,16 +150,16 @@ DialogWidth=720
 
 [Containments][2][Applets][7][General]
 disabledStatusNotifiers=firewall-applet,ulauncher,kded6
-extraItems=org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.volume,org.kde.kdeconnect
-knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen,org.kde.kdeconnect
+extraItems=org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.volume
+knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen
 
 [Containments][2][General]
 AppletOrder=3;4;5;6;7;19;24
 
-[Containments][26]
+[Containments][27]
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
-activityId=fb200084-2fbc-4905-9dd9-add73c4d6053
+activityId=bade2777-ccc8-4171-b8be-3eab493bfaa3
 formfactor=0
 immutability=1
 lastScreen=0
@@ -164,10 +167,10 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][26][General]
+[Containments][27][General]
 positions={"1920x1080":[]}
 
-[Containments][26][Wallpaper][org.kde.image][General]
+[Containments][27][Wallpaper][org.kde.image][General]
 Image=/home/pand/Pictures/light.png
 SlidePaths=/home/pand/.local/share/wallpapers/,/usr/share/wallpapers/
 

@@ -22,17 +22,17 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=111,87,174
-BackgroundNormal=34,29,64
+BackgroundNormal=34,28,66
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=105,101,134
+ForegroundInactive=105,101,137
 ForegroundLink=209,199,242
-ForegroundNegative=216,71,118
-ForegroundNeutral=235,120,105
-ForegroundNormal=198,194,231
-ForegroundPositive=147,237,202
-ForegroundVisited=105,142,229
+ForegroundNegative=213,74,122
+ForegroundNeutral=232,122,112
+ForegroundNormal=198,194,234
+ForegroundPositive=151,235,206
+ForegroundVisited=107,141,229
 
 [Colors:Complementary]
 BackgroundAlternate=0,0,1
@@ -84,61 +84,61 @@ DecorationHover=146,110,228
 ForegroundActive=146,110,228
 ForegroundInactive=255,255,255
 ForegroundLink=209,199,242
-ForegroundNegative=216,71,118
-ForegroundNeutral=235,120,105
+ForegroundNegative=213,74,122
+ForegroundNeutral=232,122,112
 ForegroundNormal=255,255,255
-ForegroundPositive=147,237,202
-ForegroundVisited=192,190,222
+ForegroundPositive=151,235,206
+ForegroundVisited=192,189,225
 
 [Colors:Tooltip]
-BackgroundAlternate=50,47,79
-BackgroundNormal=56,52,85
+BackgroundAlternate=51,47,81
+BackgroundNormal=56,52,87
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=105,101,134
+ForegroundInactive=105,101,137
 ForegroundLink=209,199,242
-ForegroundNegative=216,71,118
-ForegroundNeutral=235,120,105
-ForegroundNormal=214,213,250
-ForegroundPositive=147,237,202
-ForegroundVisited=105,142,229
+ForegroundNegative=213,74,122
+ForegroundNeutral=232,122,112
+ForegroundNormal=215,212,253
+ForegroundPositive=151,235,206
+ForegroundVisited=107,141,229
 
 [Colors:View]
-BackgroundAlternate=35,30,65
-BackgroundNormal=25,20,51
+BackgroundAlternate=35,29,66
+BackgroundNormal=26,19,53
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=105,101,134
+ForegroundInactive=105,101,137
 ForegroundLink=209,199,242
-ForegroundNegative=216,71,118
-ForegroundNeutral=235,120,105
-ForegroundNormal=214,213,250
-ForegroundPositive=147,237,202
-ForegroundVisited=143,177,255
+ForegroundNegative=213,74,122
+ForegroundNeutral=232,122,112
+ForegroundNormal=215,212,253
+ForegroundPositive=151,235,206
+ForegroundVisited=145,176,255
 
 [Colors:Window]
-BackgroundAlternate=50,47,79
-BackgroundNormal=27,22,54
+BackgroundAlternate=51,47,81
+BackgroundNormal=28,21,56
 DecorationFocus=146,110,228
 DecorationHover=146,110,228
 ForegroundActive=146,110,228
-ForegroundInactive=105,101,134
+ForegroundInactive=105,101,137
 ForegroundLink=209,199,242
-ForegroundNegative=216,71,118
-ForegroundNeutral=235,120,105
-ForegroundNormal=214,213,250
-ForegroundPositive=147,237,202
-ForegroundVisited=167,45,193
+ForegroundNegative=213,74,122
+ForegroundNeutral=232,122,112
+ForegroundNormal=215,212,253
+ForegroundPositive=151,235,206
+ForegroundVisited=165,47,194
 
 [DirSelect Dialog]
 DirSelectDialog Size=822,582
-History Items[$e]=file:$HOME/Pictures/SS,file:$HOME/Documents
+History Items[$e]=file:$HOME/Documents,file:$HOME/Documents/Telegram,file:$HOME/Pictures/SS,file:$HOME/Documents
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
-ColorSchemeHash=aca35954dacd2912e5658e144d637ee8cc09d3ba
+ColorSchemeHash=a1ceda4519f750c9ffa361c01aa81f13b0c0c716
 TerminalApplication=/usr/bin/ghostty --gtk-single-instance=true
 TerminalService=com.mitchellh.ghostty.desktop
 XftHintStyle=hintslight
@@ -181,6 +181,6 @@ activeBackground=109,85,171
 activeBlend=47,52,63
 activeFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 activeForeground=255,255,255
-inactiveBackground=27,22,54
+inactiveBackground=28,21,56
 inactiveBlend=47,52,63
-inactiveForeground=163,161,174
+inactiveForeground=164,161,175
