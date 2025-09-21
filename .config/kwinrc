@@ -3,6 +3,9 @@ Id_1=88f2b03f-9689-419b-b3fa-a34ad0bd8ba0
 Number=1
 Rows=1
 
+[Plugins]
+shakecursorEnabled=false
+
 [Tiling]
 padding=4
 

@@ -18,6 +18,10 @@ wallpaperplugin=org.kde.image
 [Containments][1][General]
 positions={"1920x1080":[]}
 
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/home/pand/Pictures/light.png
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -38,9 +42,9 @@ popupWidth=560
 [Containments][2][Applets][19][Configuration][Appearance]
 fontWeight=400
 
-[Containments][2][Applets][20]
+[Containments][2][Applets][24]
 immutability=1
-plugin=org.kde.plasma.showdesktop
+plugin=org.kde.plasma.minimizeall
 
 [Containments][2][Applets][3]
 immutability=1
@@ -65,8 +69,15 @@ plugin=org.kde.plasma.pager
 immutability=1
 plugin=org.kde.plasma.icontasks
 
+[Containments][2][Applets][5][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][2][Applets][5][Configuration][General]
+indicateAudioStreams=false
 launchers=preferred://filemanager,preferred://browser,applications:com.mitchellh.ghostty.desktop
+showToolTips=false
+tooltipControls=false
 
 [Containments][2][Applets][6]
 immutability=1
@@ -143,6 +154,10 @@ plugin=org.kde.plasma.battery
 [Containments][2][Applets][7][Applets][23][Configuration]
 PreloadWeight=18
 
+[Containments][2][Applets][7][Applets][25]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
 [Containments][2][Applets][7][Applets][8]
 immutability=1
 plugin=org.kde.plasma.notifications
@@ -156,7 +171,7 @@ extraItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.p
 knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen
 
 [Containments][2][General]
-AppletOrder=3;4;5;6;7;19;20
+AppletOrder=3;4;5;6;7;19;24
 
 [ScreenMapping]
 itemsOnDisabledScreens=

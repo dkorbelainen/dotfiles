@@ -12,7 +12,7 @@ Before proceeding, make sure you have the necessary packages and tools installed
 
 ```sh
 # Install core packages from official repositories
-sudo pacman -S git stow ghostty fastfetch flameshot micro zsh
+sudo pacman -S git stow ghostty fastfetch flameshot micro zsh wl-clipboard
 
 # Install Ulauncher from the AUR
 git clone https://aur.archlinux.org/ulauncher.git
@@ -25,6 +25,7 @@ cd ..
     ```sh
     chsh -s $(which zsh)
     ```
+Reboot.
 
 -----
 
@@ -64,3 +65,11 @@ My dotfiles include configurations for the following applications:
 
   * To use the wallpaper included in this repository, copy the image to your `~/Pictures` directory.
   * After running the `stow` command, you may need to **log out and log back in** to see the changes.
+
+### A Note on KDE Plasma
+
+It's challenging to share all KDE settings perfectly. I recommend you configure some aspects manually, such as:
+
+   * System Settings
+   * Panel configuration
+   * System tray
