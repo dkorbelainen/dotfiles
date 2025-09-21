@@ -68,4 +68,4 @@ My dotfiles include configurations for the following applications:
 
   * To use the wallpaper included in this repository, copy the image to your `~/Pictures` directory.
   * After running the `stow` command, you may need to **reboot** to see the changes.
-  * I also like to set up other tools such as **WireGuard**, **Obsidian**, various **IDEs**, **Firefox**, and my **DAW** depending on my needs.
+  * I also like to set up other tools such as **WireGuard**, **Obsidian**, various **IDEs**, **Firefox**, **Spotify** with **Spicetify** and my **DAW** depending on my needs.
