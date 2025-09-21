@@ -69,8 +69,6 @@ if command -v zoxide &> /dev/null; then
     eval "$(zoxide init --cmd cd zsh)"
 fi
 
-export PATH=$PATH:/home/pand/.spicetify
-
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
