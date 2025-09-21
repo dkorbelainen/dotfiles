@@ -12,7 +12,7 @@ Before proceeding, make sure you have the necessary packages and tools installed
 
 ```sh
 # Install core packages from official repositories
-sudo pacman -S git stow ghostty fastfetch flameshot micro zsh wl-clipboard
+sudo pacman -S git stow ghostty fastfetch flameshot micro zsh wl-clipboard inter-font
 
 # Install Ulauncher from the AUR
 git clone https://aur.archlinux.org/ulauncher.git

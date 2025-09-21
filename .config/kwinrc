@@ -1,10 +1,21 @@
 [Desktops]
 Id_1=88f2b03f-9689-419b-b3fa-a34ad0bd8ba0
+Name_1=Desktop 999
 Number=1
 Rows=1
 
 [Plugins]
+blurEnabled=true
+contrastEnabled=true
+hidecursorEnabled=true
+kwin4_effect_geometry_changeEnabled=true
+minimizeallEnabled=true
 shakecursorEnabled=false
+windowapertureEnabled=false
+wobblywindowsEnabled=true
+
+[TabBox]
+LayoutName=modern_informative
 
 [Tiling]
 padding=4
@@ -14,3 +25,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Xwayland]
 Scale=1
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=
+ButtonsOnRight=IAX
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Utterly-Round-Dark
