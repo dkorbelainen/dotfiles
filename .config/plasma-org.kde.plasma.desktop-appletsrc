@@ -4,28 +4,6 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometries-1920x1080=
-ItemGeometriesHorizontal=
-activityId=bade2777-ccc8-4171-b8be-3eab493bfaa3
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
-[Containments][1][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][1][General]
-positions={"1920x1080":[]}
-
-[Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/pand/Pictures/light.png
-SlidePaths=/usr/share/wallpapers/
-
 [Containments][2]
 activityId=
 formfactor=2
@@ -145,8 +123,16 @@ PreloadWeight=42
 [Containments][2][Applets][7][Applets][23][Configuration]
 PreloadWeight=42
 
+[Containments][2][Applets][7][Applets][25]
+immutability=1
+plugin=org.kde.kdeconnect
+
 [Containments][2][Applets][7][Applets][25][Configuration]
 PreloadWeight=42
+
+[Containments][2][Applets][7][Applets][27]
+immutability=1
+plugin=org.kde.plasma.bluetooth
 
 [Containments][2][Applets][7][Applets][8]
 immutability=1
@@ -161,11 +147,35 @@ DialogWidth=720
 
 [Containments][2][Applets][7][General]
 disabledStatusNotifiers=firewall-applet,ulauncher,kded6
-extraItems=org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.volume
-knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen
+extraItems=org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.volume,org.kde.kdeconnect
+knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen,org.kde.kdeconnect
 
 [Containments][2][General]
 AppletOrder=3;4;5;6;7;19;24
+
+[Containments][26]
+ItemGeometries-1920x1080=
+ItemGeometriesHorizontal=
+activityId=fb200084-2fbc-4905-9dd9-add73c4d6053
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][26][General]
+positions={"1920x1080":[]}
+
+[Containments][26][Wallpaper][org.kde.image][General]
+Image=/home/pand/Pictures/light.png
+SlidePaths=/home/pand/.local/share/wallpapers/,/usr/share/wallpapers/
+
+[Containments][55][Applets][60][Applets][75][Configuration]
+PreloadWeight=15
+
+[Containments][55][Applets][60][Applets][77][Configuration]
+PreloadWeight=10
 
 [ScreenMapping]
 itemsOnDisabledScreens=

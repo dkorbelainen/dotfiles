@@ -20,6 +20,9 @@ LayoutName=modern_informative
 [Tiling]
 padding=4
 
+[Tiling][88f2b03f-9689-419b-b3fa-a34ad0bd8ba0][4cd48c2b-1a86-4a13-a389-7e9821f3a8e2]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][88f2b03f-9689-419b-b3fa-a34ad0bd8ba0][91892981-f7ac-40dc-b218-7dcb006c590e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
