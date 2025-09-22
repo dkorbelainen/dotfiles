@@ -35,7 +35,7 @@ Reboot.
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/DanielKorbelainen/dotfiles.git
+    git clone https://github.com/dkorbelainen/dotfiles.git
     cd dotfiles
     ```
 
