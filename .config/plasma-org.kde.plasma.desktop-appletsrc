@@ -118,7 +118,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][2][Applets][7][Applets][21][Configuration]
-PreloadWeight=70
+PreloadWeight=80
 
 [Containments][2][Applets][7][Applets][22][Configuration]
 PreloadWeight=42
@@ -149,7 +149,7 @@ DialogHeight=752
 DialogWidth=720
 
 [Containments][2][Applets][7][General]
-disabledStatusNotifiers=firewall-applet,ulauncher,kded6
+disabledStatusNotifiers=firewall-applet,ulauncher,kded6,openrgb,spotify-client,xdg-desktop-portal-kde
 extraItems=org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.volume
 knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen
 

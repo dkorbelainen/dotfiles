@@ -1,5 +1,8 @@
 [OSD]
 kbdLayoutChangedEnabled=false
 
+[Theme]
+name=default
+
 [Wallpapers]
 usersWallpapers=/home/pand/Pictures/light.png

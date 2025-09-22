@@ -257,7 +257,10 @@ switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
 [services][com.mitchellh.ghostty.desktop]
-_launch=none
+_launch=Ctrl+Shift+T
+
+[services][firefox.desktop]
+_launch=Ctrl+Shift+F
 
 [services][org.flameshot.Flameshot.desktop]
 Capture=Print

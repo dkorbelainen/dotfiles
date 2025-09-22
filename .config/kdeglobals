@@ -133,8 +133,8 @@ ForegroundPositive=151,235,206
 ForegroundVisited=165,47,194
 
 [DirSelect Dialog]
-DirSelectDialog Size=822,582
-History Items[$e]=file:$HOME/Documents,file:$HOME/Documents/Telegram,file:$HOME/Pictures/SS,file:$HOME/Documents
+DirSelectDialog Size=819,593
+History Items[$e]=file:$HOME/Videos/obs,file:$HOME/Documents,file:$HOME/Documents/Telegram,file:$HOME/Pictures/SS,file:$HOME/Documents
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
@@ -157,7 +157,7 @@ LookAndFeelPackage=Sweet
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -174,6 +174,7 @@ Speedbar Width=140
 View Style=Simple
 
 [Shortcuts]
+FullScreen=
 Prior=
 
 [WM]
