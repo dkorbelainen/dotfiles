@@ -1,3 +1,4 @@
 # Ignore local config files
 .zshrc.local
-.config/micro/buffers/history
+.config/micro/buffers/
+.config/micro/backups/
