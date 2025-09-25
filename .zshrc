@@ -75,3 +75,8 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 export MICRO_TRUECOLOR=1
+
+# Sourcing local configurations
+if [ -f ~/.zshrc.local ]; then
+  . ~/.zshrc.local
+fi
