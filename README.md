@@ -9,7 +9,7 @@ My goal was to create a fresh, ready-to-use setup by including as many KDE and a
 <details>
   <summary><h2>Screenshots & Showcase</h2></summary>
 
-  <p>If you'd like to see the configuration in action, here's a short <a href="https://www.youtube.com/watch?v=9K6bgTDdoCE">video showcase</a>:</p>
+  <p>If you'd like to see the configuration in action, here's a short <a href="https://www.youtube.com/watch?v=9K6bgTDdoCE">video showcase</a>.</p>
 
   <p>You can also check out some static screenshots below:</p>
 
