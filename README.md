@@ -37,6 +37,7 @@ My goal was to create a fresh, ready-to-use setup by including as many KDE and a
     <br>
     <em>The Micro text editor.</em>
   </div>
+  <br>
 
   <div align="center">
     <img src="screenshots/settings.png" alt="Settings & Dolphin" width="800">
