@@ -1,11 +1,2 @@
-[Libinput][1452][591][hfd.cn USB DEVICE]
-PointerAcceleration=0.000
-PointerAccelerationProfile=1
-ScrollFactor=0.5
-
-[Libinput][9610][54][Glorious Model O]
-PointerAccelerationProfile=1
-ScrollFactor=0.75
-
 [Mouse]
 cursorTheme=breeze_cursors

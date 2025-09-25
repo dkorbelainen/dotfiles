@@ -5,7 +5,7 @@ RightButton;NoModifier=org.kde.contextmenu
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1][Wallpaper][org.kde.image][General]
-SlidePaths=/home/%u/.local/share/wallpapers/,/usr/share/wallpapers/
+SlidePaths=$HOME/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][2]
 activityId=
@@ -145,7 +145,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][2][Applets][7][Applets][8][Configuration]
-PreloadWeight=60
+PreloadWeight=70
 
 [Containments][2][Applets][7][Applets][9][Configuration]
 PreloadWeight=42
