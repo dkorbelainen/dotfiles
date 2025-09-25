@@ -5,7 +5,7 @@ RightButton;NoModifier=org.kde.contextmenu
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1][Wallpaper][org.kde.image][General]
-SlidePaths=/home/pand/.local/share/wallpapers/,/usr/share/wallpapers/
+SlidePaths=/home/%u/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][2]
 activityId=
