@@ -4,6 +4,9 @@ Name_1=Desktop 999
 Number=1
 Rows=1
 
+[Effect-blur]
+NoiseStrength=4
+
 [Plugins]
 blurEnabled=true
 contrastEnabled=true
