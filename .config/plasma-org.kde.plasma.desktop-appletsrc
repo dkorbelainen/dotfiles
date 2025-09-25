@@ -27,7 +27,7 @@ popupWidth=560
 [Containments][2][Applets][19][Configuration][Appearance]
 fontWeight=400
 
-[Containments][2][Applets][24]
+[Containments][2][Applets][29]
 immutability=1
 plugin=org.kde.plasma.minimizeall
 
@@ -55,7 +55,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][5][Configuration][ConfigDialog]
-DialogHeight=540
+DialogHeight=644
 DialogWidth=720
 
 [Containments][2][Applets][5][Configuration][General]
@@ -160,7 +160,7 @@ extraItems=org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.pl
 knownItems=org.kde.plasma.notifications,org.kde.plasma.cameraindicator,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.kscreen
 
 [Containments][2][General]
-AppletOrder=3;4;5;6;7;19;24
+AppletOrder=3;4;5;6;7;19;29
 
 [Containments][27]
 ItemGeometries-1920x1080=
