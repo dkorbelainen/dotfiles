@@ -177,8 +177,8 @@ wallpaperplugin=org.kde.image
 positions={"1920x1080":[]}
 
 [Containments][27][Wallpaper][org.kde.image][General]
-Image=/home/pand/Pictures/light.png
-SlidePaths=/home/pand/.local/share/wallpapers/,/usr/share/wallpapers/
+Image=$HOME/Pictures/light.png
+SlidePaths=$HOME/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][55][Applets][60][Applets][75][Configuration]
 PreloadWeight=15
