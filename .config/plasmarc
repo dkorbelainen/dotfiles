@@ -5,4 +5,4 @@ kbdLayoutChangedEnabled=false
 name=default
 
 [Wallpapers]
-usersWallpapers=/home/pand/Pictures/light.png
+usersWallpapers=/home/%u/Pictures/light.png
