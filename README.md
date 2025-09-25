@@ -6,6 +6,42 @@ My goal was to create a fresh, ready-to-use setup by including as many KDE and a
 
 -----
 
+<details>
+  <summary><h2>Screenshots</h2></summary>
+
+  <p>Here are some screenshots showcasing my current desktop configuration.</p>
+
+  <div align="center">
+    <img src="screenshots/desktop.png" alt="Desktop Overview" width="800">
+    <br>
+    <em>A clean and minimal desktop setup.</em>
+  </div>
+  <br>
+
+  <div align="center">
+    <img src="screenshots/desktop_term.png" alt="Desktop with Ghostty and Fastfetch" width="800">
+    <br>
+    <em>Terminal running Fastfetch, showcasing the color scheme and fonts.</em>
+  </div>
+  <br>
+
+  <div align="center">
+    <img src="screenshots/ulauncher.png" alt="Ulauncher in action" width="800">
+    <br>
+    <em>The Ulauncher application launcher.</em>
+  </div>
+  <br>
+
+  <div align="center">
+    <img src="screenshots/editor_term.png" alt="Micro Text Editor" width="800">
+    <br>
+    <em>The Micro text editor.</em>
+  </div>
+
+</details>
+
+-----
+
 ### Requirements
 
 Before proceeding, make sure you have the necessary packages and tools installed.
