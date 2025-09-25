@@ -11,13 +11,7 @@ My goal was to create a fresh, ready-to-use setup by including as many KDE and a
 
   <p>If you'd like to see the configuration in action, here's a short video showcase:</p>
 
-  <div align="center">
-    [![Simple & Straightforward KDE configuration with dotfiles](https://img.youtube.com/vi/9K6bgTDdoCE/maxresdefault.jpg)](https://www.youtube.com/watch?v=9K6bgTDdoCE)
-    <br>
-    <em>Click to watch the video on YouTube.</em>
-  </div>
-
-  <br>
+  <h2><a href="https://www.youtube.com/watch?v=9K6bgTDdoCE">Showcase</a></h2>
 
   <p>You can also check out some static screenshots below:</p>
 
