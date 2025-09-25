@@ -6,44 +6,54 @@ My goal was to create a fresh, ready-to-use setup by including as many KDE and a
 
 -----
 
-<details>
-  <summary><h2>Screenshots</h2></summary>
+\<details\>
+\<summary\>\<h2\>Screenshots & Showcase\</h2\>\</summary\>
 
-  <p>Here are some screenshots showcasing my current desktop configuration.</p>
+\<p\>If you'd like to see the configuration in action, here's a short video showcase:\</p\>
 
-  <div align="center">
-    <img src="screenshots/desktop.png" alt="Desktop Overview" width="800">
-    <br>
-    <em>A clean and minimal desktop setup.</em>
-  </div>
-  <br>
+\<div align="center"\>
+[](https://www.youtube.com/watch?v=9K6bgTDdoCE)
+<br>
+\<em\>Click to watch the video on YouTube.\</em\>
+\</div\>
 
-  <div align="center">
-    <img src="screenshots/desktop_term.png" alt="Desktop with Ghostty and Fastfetch" width="800">
-    <br>
-    <em>Terminal running Fastfetch, showcasing the color scheme and fonts.</em>
-  </div>
-  <br>
+<br>
 
-  <div align="center">
-    <img src="screenshots/ulauncher.png" alt="Ulauncher in action" width="800">
-    <br>
-    <em>The Ulauncher application launcher.</em>
-  </div>
-  <br>
+\<p\>You can also check out some static screenshots below:\</p\>
 
-  <div align="center">
-    <img src="screenshots/editor_term.png" alt="Micro Text Editor" width="800">
-    <br>
-    <em>The Micro text editor.</em>
-  </div>
-  <br>
+\<div align="center"\>
+\<img src="screenshots/desktop.png" alt="Desktop Overview" width="800"\>
+<br>
+\<em\>A clean and minimal desktop setup.\</em\>
+\</div\>
+<br>
 
-  <div align="center">
-    <img src="screenshots/settings.png" alt="Settings & Dolphin" width="800">
-    <br>
-    <em>Settings & Dolphin.</em>
-  </div>
+\<div align="center"\>
+\<img src="screenshots/desktop\_term.png" alt="Desktop with Ghostty and Fastfetch" width="800"\>
+<br>
+\<em\>Terminal running Fastfetch, showcasing the color scheme and fonts.\</em\>
+\</div\>
+<br>
+
+\<div align="center"\>
+\<img src="screenshots/ulauncher.png" alt="Ulauncher in action" width="800"\>
+<br>
+\<em\>The Ulauncher application launcher.\</em\>
+\</div\>
+<br>
+
+\<div align="center"\>
+\<img src="screenshots/editor\_term.png" alt="Micro Text Editor" width="800"\>
+<br>
+\<em\>The Micro text editor.\</em\>
+\</div\>
+<br>
+
+<div align="center">
+<img src="screenshots/settings.png" alt="Settings & Dolphin" width="800">
+<br>
+<em>Settings & Dolphin.</em>
+</div>
 
 </details>
 
