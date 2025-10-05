@@ -2,5 +2,6 @@
   "tabsize": 4,
   "colorscheme": "catppuccin-mocha-transparent",
   "cursorline": false,
-  "clipboard": "external"
+  "clipboard": "terminal",
+  "mouse": true
 }
